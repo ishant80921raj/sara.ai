@@ -218,7 +218,10 @@ class SARAGui:
         except Exception as e:
             messagebox.showerror("Error", f"Error initializing modules: {e}")
             return
-        
+
+
+        # Initialize modules
+    
         # Create GUI
         self.create_ui()
         
