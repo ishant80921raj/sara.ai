@@ -15,7 +15,6 @@ from brain import SARBrain
 from actions import ActionExecutor
 import random
 
-
 class SARACharacter:
     """2D Animated SARA Cartoon Character with Expressions"""
     
